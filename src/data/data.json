@@ -1,0 +1,132 @@
+{
+    "personajes": [
+      {
+        "nombre": "Harry Potter",
+        "edad": 17,
+        "casa": "Gryffindor",
+        "varita": {
+          "madera": "Acebo",
+          "núcleo": "Pluma de Fénix",
+          "longitud": "11 pulgadas"
+        },
+        "amigos": ["Ron Weasley", "Hermione Granger"],
+        "enemigos": ["Voldemort", "Draco Malfoy"]
+      },
+      {
+        "nombre": "Hermione Granger",
+        "edad": 17,
+        "casa": "Gryffindor",
+        "varita": {
+          "madera": "Vid",
+          "núcleo": "Pelo de unicornio",
+          "longitud": "10¾ pulgadas"
+        },
+        "amigos": ["Harry Potter", "Ron Weasley"],
+        "enemigos": ["Draco Malfoy", "Bellatrix Lestrange"]
+      },
+      {
+        "nombre": "Ron Weasley",
+        "edad": 17,
+        "casa": "Gryffindor",
+        "varita": {
+          "madera": "Sauco",
+          "núcleo": "Pelo de unicornio",
+          "longitud": "14 pulgadas"
+        },
+        "amigos": ["Harry Potter", "Hermione Granger"],
+        "enemigos": ["Draco Malfoy"]
+      }
+    ],
+    "hechizos": [
+      {
+        "nombre": "Expecto Patronum",
+        "descripción": "Crea una protección contra los dementores"
+      },
+      {
+        "nombre": "Avada Kedavra",
+        "descripción": "Maldición asesina"
+      },
+      {
+        "nombre": "Wingardium Leviosa",
+        "descripción": "Hace levitar objetos"
+      }
+    ],
+    "casas": [
+      {
+        "nombre": "Gryffindor",
+        "fundador": "Godric Gryffindor",
+        "animal": "León",
+        "colores": ["Rojo", "Dorado"]
+      },
+      {
+        "nombre": "Hufflepuff",
+        "fundador": "Helga Hufflepuff",
+        "animal": "Tejón",
+        "colores": ["Amarillo", "Negro"]
+      },
+      {
+        "nombre": "Ravenclaw",
+        "fundador": "Rowena Ravenclaw",
+        "animal": "Águila",
+        "colores": ["Azul", "Bronce"]
+      },
+      {
+        "nombre": "Slytherin",
+        "fundador": "Salazar Slytherin",
+        "animal": "Serpiente",
+        "colores": ["Verde", "Plata"]
+      }
+    ],
+    "lugares": [
+      {
+        "nombre": "Hogwarts",
+        "ubicación": "Escocia",
+        "fundación": "Siglo X",
+        "fundador": "Godric Gryffindor",
+        "casas": ["Gryffindor", "Hufflepuff", "Ravenclaw", "Slytherin"],
+        "director": "Minerva McGonagall",
+        "profesores": ["Severus Snape  "],
+        "estudiantes": ["Harry Potter", "Hermione Granger", "Ron Weasley"],
+        "mascota": "Búho",
+        "equipamiento": ["Varitas", "Calderos", "Escobas voladoras"]
+      },
+      {
+        "nombre": "Callejón Diagon",
+        "ubicación": "Londres",
+        "descripción": "Un lugar donde los magos compran suministros para la escuela y otros objetos mágicos",
+        "tiendas": [
+          "Ollivanders - Varitas mágicas",
+          "Gringotts - Banco de los magos",
+          "El Caldero Chorreante - Cafetería",
+          "Flourish y Blotts - Libros mágicos"
+        ]
+      },
+      {
+        "nombre": "Bosque Prohibido",
+        "ubicación": "Hogwarts",
+        "descripción": "Un bosque oscuro y peligroso en las afueras del castillo",
+        "criaturas": [
+          "Acromántula",
+          "Centaur",
+          "Hipogrifo",
+          "Thestral",
+          "Unicorno"
+        ]
+      },
+        {
+            "nombre": "Ministerio de Magia",
+            "ubicación": "Londres",
+            "descripción": "El gobierno de los magos",
+            "ministro": "Cornelius Fudge",
+            "departamentos": [
+            "Departamento de Misterios Mágicos",
+            "Departamento de Regulación y Control de las Criaturas Mágicas",
+            "Departamento de Transporte Mágico",
+            "Departamento de Aurores",
+            "Departamento de Estudios Mágicos"
+            ]
+        }
+    ]
+    }
+      
+  
